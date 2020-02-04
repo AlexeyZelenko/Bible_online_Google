@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="97d2bd41-4dcf-4543-8542-0ba411633310" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\GoogleПриложение\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XKzzCMLzIvmpFEWHMkW228PNQt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97d2bd41-4dcf-4543-8542-0ba411633310" name="Default Changelist" comment="" />
+      <created>1580809833120</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580809833120</updated>
+      <workItem from="1580809834222" duration="9960000" />
+    </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1580810554693</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580810554693</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1">
+      <created>1580810763424</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580810763424</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1">
+      <created>1580810772762</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1580810772762</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1">
+      <created>1580813051828</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1580813051828</updated>
+    </task>
+    <task id="LOCAL-00005" summary="1">
+      <created>1580813233012</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1580813233012</updated>
+    </task>
+    <task id="LOCAL-00006" summary="1">
+      <created>1580814492570</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1580814492570</updated>
+    </task>
+    <task id="LOCAL-00007" summary="1">
+      <created>1580815472244</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1580815472244</updated>
+    </task>
+    <task id="LOCAL-00008" summary="1">
+      <created>1580815719533</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1580815719533</updated>
+    </task>
+    <task id="LOCAL-00009" summary="1">
+      <created>1580815914908</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1580815914908</updated>
+    </task>
+    <task id="LOCAL-00010" summary="1">
+      <created>1580816048994</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1580816048994</updated>
+    </task>
+    <task id="LOCAL-00011" summary="1">
+      <created>1580818507430</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1580818507430</updated>
+    </task>
+    <task id="LOCAL-00012" summary="1">
+      <created>1580819225169</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1580819225169</updated>
+    </task>
+    <task id="LOCAL-00013" summary="1">
+      <created>1580819241141</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1580819241141</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1030" y="274" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580813364984">
+      <screen x="-1280" y="60" width="1024" height="819" />
+    </state>
+    <state x="-1030" y="274" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864/-1280.60.1024.819@-1280.60.1024.819" timestamp="1580813364984" />
+    <state x="-1214" y="62" key="CommitChangelistDialog2" timestamp="1580819240862">
+      <screen x="-1280" y="60" width="1024" height="819" />
+    </state>
+    <state x="-1214" y="62" key="CommitChangelistDialog2/0.0.1536.864/-1280.60.1024.819@-1280.60.1024.819" timestamp="1580819240862" />
+    <state x="-987" y="212" key="FileChooserDialogImpl" timestamp="1580821562581">
+      <screen x="-1280" y="60" width="1024" height="819" />
+    </state>
+    <state x="-987" y="212" key="FileChooserDialogImpl/0.0.1536.864/-1280.60.1024.819@-1280.60.1024.819" timestamp="1580821562581" />
+  </component>
+</project>
