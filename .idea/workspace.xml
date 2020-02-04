@@ -4,7 +4,6 @@
     <list default="true" id="97d2bd41-4dcf-4543-8542-0ba411633310" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/labnol.html" beforeDir="false" afterPath="$PROJECT_DIR$/labnol.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/manifest.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,14 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580809833120</updated>
-      <workItem from="1580809834222" duration="28502000" />
-    </task>
-    <task id="LOCAL-00019" summary="12">
-      <created>1580822485007</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1580822485007</updated>
+      <workItem from="1580809834222" duration="29433000" />
     </task>
     <task id="LOCAL-00020" summary="12">
       <created>1580822574754</created>
@@ -400,7 +392,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580840771921</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="12">
+      <created>1580844086850</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1580844086850</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -420,10 +419,10 @@
       <screen x="-1280" y="60" width="1024" height="819" />
     </state>
     <state x="-1037" y="218" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864/-1280.60.1024.819@-1280.60.1024.819" timestamp="1580840172788" />
-    <state x="-1214" y="62" key="CommitChangelistDialog2" timestamp="1580840771660">
+    <state x="-1214" y="62" key="CommitChangelistDialog2" timestamp="1580844086628">
       <screen x="-1280" y="60" width="1024" height="819" />
     </state>
-    <state x="-1214" y="62" key="CommitChangelistDialog2/0.0.1536.864/-1280.60.1024.819@-1280.60.1024.819" timestamp="1580840771660" />
+    <state x="-1214" y="62" key="CommitChangelistDialog2/0.0.1536.864/-1280.60.1024.819@-1280.60.1024.819" timestamp="1580844086628" />
     <state x="-987" y="212" key="FileChooserDialogImpl" timestamp="1580821562581">
       <screen x="-1280" y="60" width="1024" height="819" />
     </state>
