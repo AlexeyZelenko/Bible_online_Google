@@ -1,7 +1,7 @@
     google.load("feeds", "1");
 
     function initialize() {
-      var feed = new google.feeds.Feed("https://www.youtube.com/channel/UCSb71yKJmS0eHyhRRl00ioQ");
+      var feed = new google.feeds.Feed("");
       feed.setNumEntries(10);
       var count = 1;
       feed.load(function(result) {
