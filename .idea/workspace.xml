@@ -49,21 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580809833120</updated>
-      <workItem from="1580809834222" duration="17041000" />
-    </task>
-    <task id="LOCAL-00003" summary="1">
-      <created>1580810772762</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1580810772762</updated>
-    </task>
-    <task id="LOCAL-00004" summary="1">
-      <created>1580813051828</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1580813051828</updated>
+      <workItem from="1580809834222" duration="17449000" />
     </task>
     <task id="LOCAL-00005" summary="1">
       <created>1580813233012</created>
@@ -394,7 +380,21 @@
       <option name="project" value="LOCAL" />
       <updated>1580828217839</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="12">
+      <created>1580828523646</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1580828523646</updated>
+    </task>
+    <task id="LOCAL-00053" summary="12">
+      <created>1580828629578</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1580828629578</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -410,10 +410,10 @@
       <screen x="-1280" y="60" width="1024" height="819" />
     </state>
     <state x="-1030" y="274" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864/-1280.60.1024.819@-1280.60.1024.819" timestamp="1580813364984" />
-    <state x="-1214" y="62" key="CommitChangelistDialog2" timestamp="1580828523395">
+    <state x="-1214" y="62" key="CommitChangelistDialog2" timestamp="1580828629354">
       <screen x="-1280" y="60" width="1024" height="819" />
     </state>
-    <state x="-1214" y="62" key="CommitChangelistDialog2/0.0.1536.864/-1280.60.1024.819@-1280.60.1024.819" timestamp="1580828523395" />
+    <state x="-1214" y="62" key="CommitChangelistDialog2/0.0.1536.864/-1280.60.1024.819@-1280.60.1024.819" timestamp="1580828629354" />
     <state x="-987" y="212" key="FileChooserDialogImpl" timestamp="1580821562581">
       <screen x="-1280" y="60" width="1024" height="819" />
     </state>
