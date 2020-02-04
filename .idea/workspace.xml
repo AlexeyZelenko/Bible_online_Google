@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="97d2bd41-4dcf-4543-8542-0ba411633310" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/icon.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/labnol.html" beforeDir="false" afterPath="$PROJECT_DIR$/labnol.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,21 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580809833120</updated>
-      <workItem from="1580809834222" duration="17830000" />
-    </task>
-    <task id="LOCAL-00006" summary="1">
-      <created>1580814492570</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1580814492570</updated>
-    </task>
-    <task id="LOCAL-00007" summary="1">
-      <created>1580815472244</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1580815472244</updated>
+      <workItem from="1580809834222" duration="18698000" />
     </task>
     <task id="LOCAL-00008" summary="1">
       <created>1580815719533</created>
@@ -394,7 +381,21 @@
       <option name="project" value="LOCAL" />
       <updated>1580828928194</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="12">
+      <created>1580829310413</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1580829310413</updated>
+    </task>
+    <task id="LOCAL-00056" summary="12">
+      <created>1580829455688</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1580829455688</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -410,10 +411,10 @@
       <screen x="-1280" y="60" width="1024" height="819" />
     </state>
     <state x="-1030" y="274" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864/-1280.60.1024.819@-1280.60.1024.819" timestamp="1580813364984" />
-    <state x="-1214" y="62" key="CommitChangelistDialog2" timestamp="1580829310128">
+    <state x="-1214" y="62" key="CommitChangelistDialog2" timestamp="1580829455405">
       <screen x="-1280" y="60" width="1024" height="819" />
     </state>
-    <state x="-1214" y="62" key="CommitChangelistDialog2/0.0.1536.864/-1280.60.1024.819@-1280.60.1024.819" timestamp="1580829310128" />
+    <state x="-1214" y="62" key="CommitChangelistDialog2/0.0.1536.864/-1280.60.1024.819@-1280.60.1024.819" timestamp="1580829455405" />
     <state x="-987" y="212" key="FileChooserDialogImpl" timestamp="1580821562581">
       <screen x="-1280" y="60" width="1024" height="819" />
     </state>
