@@ -1,7 +1,7 @@
     google.load("feeds", "1");
 
     function initialize() {
-      var feed = new google.feeds.Feed("http://feeds.labnol.org/labnol");
+      var feed = new google.feeds.Feed("https://www.youtube.com/channel/UCSb71yKJmS0eHyhRRl00ioQ");
       feed.setNumEntries(10);
       var count = 1;
       feed.load(function(result) {
@@ -13,7 +13,7 @@
             html = "<h5>" + count++ + ". <a href='" + entry.link + "'>" + entry.title + "</a></h5>";
             var div = document.createElement("div");
             div.innerHTML = html;
-            container.appendChild(div);            
+            container.appendChild(div);
           }
           document.write(html);
         }
