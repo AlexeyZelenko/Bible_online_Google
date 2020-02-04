@@ -24,12 +24,13 @@
 			<td class="container">
 				<div class="content">
 					<div id="pattern" class="pattern">
-						<form action="http://allbible.info/search/" method="post" class="f" target="_blank">
-							<input type="search" name="s" placeholder="Найти что-то.." />
-							<input type="submit" class="btn search-submit" value="Поиск">
+						<form action="http://allbible.info/search/" method="post">
+							<input type="hidden" name="translation" value="sinodal" />
+							<input type="hidden" name="target" value="all" />
+							<input type="text" name="query" />
+							<input type="submit" value="Найти в Библии" />
 						</form>
-						<div style="margin-bottom:10px; padding-left:10px;"><a href="http://allbible.info" title="Библия онлайн. Подкрепись!" style="font-family:Georgia,'Times New Roman',Times,serif; font-style:italic; font-size:18px; color:#000;">Случайный стих из Библии</a></div><iframe id="randomVerseIframe"  src="http://allbible.info/ajax/randomverse/" width="300" height="200" title="Подкрепись! Библия онлайн." frameborder="0" scrolling="no"></iframe>
-					<div id="feed"></div>
+						<iframe src="http://allbible.info/iframebible/"  frameborder="0" scrolling="yes"></iframe>					<div id="feed"></div>
 					<div id="logo">
 					</div>
 				</div>
