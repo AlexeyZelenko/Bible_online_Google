@@ -3,9 +3,10 @@
     "description": "Сайт Церкви Благая Весть",
     "browser_action": {
         "default_icon": {
-            "38": "icon.png"
+            "38": "images/icon.png"
             },
-        "default_title": "Your Extension Popup Title",
+        "default_title": "Расширение для чтения библии онлайн. Использует интернет-ресурс https://allbible.info/ ,
+        Имеет ссылки на интернет-ресурсы Черкасской церкви (Украина) "Благая весть", пастор Биевец Юрий Викторович."
         "default_popup": "labnol.html"
     },
     "manifest_version": 2,
