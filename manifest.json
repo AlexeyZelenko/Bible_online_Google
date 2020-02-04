@@ -1,6 +1,6 @@
 {
-    "name": "Благая весть",
-    "description": "Библия_онлайн",
+    "name": "Библия-онлайн",
+    "description": "Библия_онлайн.",
     "browser_action": {
         "default_icon": {
             "38": "images/icon.png"
