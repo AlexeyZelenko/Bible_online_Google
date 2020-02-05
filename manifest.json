@@ -6,7 +6,8 @@
             "38": "images/icon.png"
             },
         "default_title": "Расширение для чтения библии онлайн.",
-        "default_popup": "labnol.html"
+        "default_popup": "labnol.html",
+        "popup": "donate.html"
     },
     "manifest_version": 2,
     "update_url": "http://clients2.google.com/service/update2/crx",
