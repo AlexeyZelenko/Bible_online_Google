@@ -1,38 +1,77 @@
-<!DOCTYPE html>
-<html lang="ru">
+<!doctype html>
+<html lang="en">
 <head>
-    <!-- Кодировка веб-страницы -->
+    <!-- Required meta tags -->
     <meta charset="utf-8">
-    <!-- Настройка viewport -->
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.4/css/bootstrap.min.css"
+          integrity="2hfp1SzUoho7/TsGGGDaFdsuuDL0LX2hnUp6VkX3CUQ2K4K+xjboZdsXyp4oUHZj" crossorigin="anonymous">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.4/js/bootstrap.min.js"
+            integrity="VjEeINv9OSwtWFLAtmc4JCtEJXXBub00gtSnszmspDLCtC0I4z4nqz7rEFbIZLLU"
+            crossorigin="anonymous"></script>
 
-    <!-- Подключаем Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-
+    <title>Помощь</title>
 </head>
 <body>
-
-<!-- Контент страницы -->
-<button type="button" class="btn btn-primary" data-toggle="popover"
-        title="Сообщение" data-content="Ура, Bootstrap 4 работает">
-    Поднеси ко мне курсор
-</button>
-
+<div style="margin: 2% 10%">
+    <div class="alert alert-success" role="alert">
+        <h4 class="alert-heading">Помогите проэкту развиваться!</h4>
+        <p><h6>Если Вам понравился проэкт и Вы хотите чтобы он развивался и обновлялся, тогда Вы можете пожертвовать
+        свою лепту на это.</h6></p>
 
 
-<!-- Подключаем jQuery -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    </div>
+    <div class="alert alert-info" role="alert">
+        <h4 class="alert-heading">VISA</h4>
+        <p class="m-b-2"><h5>Номер карточки Приватбанка - 4731185600237827</h5></p>
+    </div>
 
-<!-- Подключаем плагин Popper -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-
-<!-- Подключаем Bootstrap JS -->
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous" ></script>
-<!-- После подключения jQuery, Popper и Bootstrap JS -->
-<script>
-    $(function () {
-        $('[data-toggle="popover"]').popover({trigger:'hover'});
-    });
-</script>
+    <div class="alert alert-warning" role="alert">
+        <h4 class="alert-heading">Другие страны</h4>
+        <p class="m-b-0">SWIFT платеж</p>
+        <p class="m-b-0">
+            <object>
+                <embed src="/images/pdf.pdf" width="100%" height="500"/>
+            </object>
+        </p>
+    </div>
+</div>
+<div style="width: 1000%;">
+    <p>Перейдите на наши интернет-ресурсы</p>
+    <div style="float: left; width: 100px; height: 100px;">
+        <a href="https://bv.ck.ua/"><img src="images/icon.png"
+                                         width="33"
+                                         height="30"
+                                         alt="сайт"></a>
+    </div>
+    <div style="float: left; width: 100px; height: 100px;">
+        <a href="https://www.youtube.com/channel/UCSb71yKJmS0eHyhRRl00ioQ">
+            <img src="images/youtube.png"
+                 width="33"
+                 height="40"
+                 alt="youtube"></a>
+    </div>
+    <div style="float: left; width: 100px; height: 100px;">
+        <a href="https://www.facebook.com/bv.ck.ua/">
+            <img src="images/facebook.png"
+                 width="33"
+                 height="27"
+                 alt="facebook"></a>
+    </div>
+    <div style="float: left; width: 100px; height: 100px;">
+        <a href="https://github.com/AlexeyZelenko/Bible_online_Google">
+            <img src="images/gitHub.jpg"
+                 width="53"
+                 height="37"
+                 alt="gitHub"></a>
+    </div>
+    <div style="float: left; width: 100px; height: 100px;">
+        <a href="/donate.html">
+            <img src="images/help.png"
+                 width="45"
+                 height="45"
+                 alt="help"></a>
+    </div>
+</div>
 </body>
 </html>
