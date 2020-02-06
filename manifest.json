@@ -1,6 +1,6 @@
 {
-    "name": "Библия-онлайн",
-    "description": "Библия_онлайн.",
+    "name": "Bible",
+    "description": "Библия. Аудио-Библия. Три языка. Поиск.",
     "browser_action": {
         "default_icon": {
             "38": "images/icon.png"
