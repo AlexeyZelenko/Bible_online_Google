@@ -62,14 +62,7 @@
       <updated>1580809833120</updated>
       <workItem from="1580809834222" duration="37803000" />
       <workItem from="1580894749982" duration="9148000" />
-      <workItem from="1581011740522" duration="314000" />
-    </task>
-    <task id="LOCAL-00026" summary="12">
-      <created>1580824044552</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1580824044552</updated>
+      <workItem from="1581011740522" duration="574000" />
     </task>
     <task id="LOCAL-00027" summary="12">
       <created>1580824476266</created>
@@ -407,7 +400,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580902466713</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="bootstrap">
+      <created>1581012088321</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1581012088322</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -468,10 +468,10 @@
       <screen x="-1280" y="60" width="1024" height="819" />
     </state>
     <state x="-1037" y="218" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864/-1280.60.1024.819@-1280.60.1024.819" timestamp="1580888614503" />
-    <state x="-1214" y="62" key="CommitChangelistDialog2" timestamp="1580902466474">
+    <state x="-1214" y="62" key="CommitChangelistDialog2" timestamp="1581012087994">
       <screen x="-1280" y="60" width="1024" height="819" />
     </state>
-    <state x="-1214" y="62" key="CommitChangelistDialog2/0.0.1536.864/-1280.60.1024.819@-1280.60.1024.819" timestamp="1580902466474" />
+    <state x="-1214" y="62" key="CommitChangelistDialog2/0.0.1536.864/-1280.60.1024.819@-1280.60.1024.819" timestamp="1581012087994" />
     <state x="-987" y="212" key="FileChooserDialogImpl" timestamp="1580894747514">
       <screen x="-1280" y="60" width="1024" height="819" />
     </state>
